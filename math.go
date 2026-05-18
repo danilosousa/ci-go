@@ -11,5 +11,5 @@ func Soma(a int, b int) int {
 }
 
 // output:
-// 22
+// 23
 //
