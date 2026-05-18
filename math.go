@@ -11,5 +11,5 @@ func Soma(a int, b int) int {
 }
 
 // output:
-// 23 teste push develop
+// 23 teste push develop 2
 //
